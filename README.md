@@ -21,7 +21,7 @@
 ### 📫 How to reach me:
 - ✉️ **Email:** antonmakho@gmail.com  
 - 📱 **Phone:** +48 881 575 631  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/antonmakho)   
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anton-makhovskyi/)   
 - 💻 [My Projects](https://github.com/amakho)
 
 ---
